@@ -17,8 +17,11 @@
   <a href="https://portfolio01.onrender.com/Home"><img width="32px" alt="portfolio.com" title="Portfolio" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </a>
+    <a href="https://www.linkedin.com/in/benny-b-001120207/"><img width="32px" alt="portfolio.com" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </a>
 </p>
-<img align="center" alt="ben   | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
 
 <p align="center">
   I'm an indie full-stack developer and creator building my version of the digital world one step at a time.

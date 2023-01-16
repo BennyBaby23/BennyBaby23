@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github.com/BennyBaby23/BennyPort/blob/main/avento.gif" width="350px" height="200px"/>
+  <img align="center" src="https://github.com/BennyBaby23/BennyBaby23/blob/main/avento.gif" width="350px" height="200px"/>
 </p>
 
 <p align="center">

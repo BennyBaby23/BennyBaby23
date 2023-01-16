@@ -15,8 +15,13 @@
 <p align="center">
   I'm an indie full-stack developer and creator building my version of the digital world one step at a time.
 </p>
-<h3 align="center"> <a href="https://portfolio01.onrender.com/Home"></a>My Portfolio Website Link</h3> 
----
+
+<p align="center">
+  <a href="https://portfolio01.onrender.com/Home"><img width="32px" alt="portfolio.com" title="Portfolio" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </a>
+</p>
+
 
 <h3 align="center">🧰 Languages, Tools & My Tech Stack 💻</h3> 
 <h3 align="center"></h3> 
@@ -49,7 +54,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href=""><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

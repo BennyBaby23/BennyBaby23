@@ -12,7 +12,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=F12281F1&vCenter=true&pause=1000&size=22](https://readme-typing-svg.demolab.com?font=Expo+2&weight=900&pause=1000&color=F70E72&background=69FFBF00&center=true&width=444&height=56&lines=Full-Stack+Web+%26+APP+Developer;Experienced+Designer;6%2B+Educational+%2Six+2%2B+Work+Experience;To+be+an+Entrepreneur](https://readme-typing-svg.demolab.com?font=Expo+2&weight=900&pause=1000&color=F70E72&background=69FFBF00&center=true&width=444&height=56&lines=Full-Stack+Web+%26+APP+Developer;Experienced+Designer;3%2B+Year+Work+Experience;To+be+an+Entrepreneur" /></a>
 </p>
 
-<h3 align="center">MY Porfolio/LinkedIn Website Click ⬇</h3> 
+<h3 align="center">MY Porfolio & LinkedIn Website Click ⬇</h3> 
 <p align="center">
   <a href="https://portfolio01.onrender.com/Home"><img width="32px" alt="portfolio.com" title="Portfolio" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
